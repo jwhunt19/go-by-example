@@ -11,5 +11,4 @@ func main() {
 	for elem := range queue {
 		fmt.Println(elem)
 	}
-	
 }
